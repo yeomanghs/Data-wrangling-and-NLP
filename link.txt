@@ -1,0 +1,8 @@
+text summarization, textrank using PageRank algorithm, Python
+https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/
+
+text summarization, textrank in R
+https://cran.r-project.org/web/packages/textrank/vignettes/textrank.html
+
+paper about textrank
+https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
